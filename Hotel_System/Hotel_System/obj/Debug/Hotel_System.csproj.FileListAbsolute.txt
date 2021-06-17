@@ -1,0 +1,19 @@
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe.config
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.exe
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.pdb
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\bin\Debug\Hotel_System.pdb
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.csprojResolveAssemblyReference.cache
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Extras.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Checkin_outForm.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Form1.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.MainForm.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Properties.Resources.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Rooms.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Users.resources
+C:\Users\nahun\Documents\Visual Studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.csproj.GenerateResource.Cache
+C:\Users\nahun\Desktop\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe.config
+C:\Users\nahun\Desktop\Hotel_System\Hotel_System\obj\Debug\Hotel_System.exe
+C:\Users\nahun\Desktop\Hotel_System\Hotel_System\obj\Debug\Hotel_System.pdb
+C:\Users\nahun\documents\visual studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.GerenteForm.resources
+C:\Users\nahun\documents\visual studio 2015\Projects\Hotel_System\Hotel_System\obj\Debug\Hotel_System.GerenteC.resources
